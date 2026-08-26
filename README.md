@@ -1,4 +1,4 @@
-# SE411-lab1
+# SE411
 This is a repository for my solutions to SE411 labs 
 
 
