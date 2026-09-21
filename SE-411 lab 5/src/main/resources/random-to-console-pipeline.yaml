@@ -1,0 +1,16 @@
+replicaCount: 1
+
+resources:
+  limits:
+    cpu: 2
+    memory: 2G
+  requests:
+    cpu: 2
+    memory: 2G
+
+streaming:
+  pipeline:
+    className: psu.edu.sa.lab05.RandomToConsolePipeline
+
+    configuration:
+      tps: 100
