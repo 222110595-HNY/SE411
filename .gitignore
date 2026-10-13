@@ -1,0 +1,9 @@
+.metadata/
+.settings/
+.classpath
+.project
+target/
+bin/
+logs/
+*.docx
+*.pdf
